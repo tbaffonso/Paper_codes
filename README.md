@@ -16,8 +16,8 @@ Os dados originais possuem caráter de confidencialidade, por isso não foram co
 
 Os códigos geram saídas para as previsões em arquivo excel (.xlsx) para diversas parametrizações dos modelos, sendo elas:
 
-SES: alfa de 0.1 a 1.0
+SES: α de 0.1 a 1.0
 
-SR, SBA e TSB: alfa e beta podem ser incluídas manualmente
+SR, SBA e TSB: α e β podem ser incluídas manualmente
 
 WSS, B-2OPT, BSWAP: percentis de 0 a 100
