@@ -14,7 +14,7 @@ Os dados originais possuem caráter de confidencialidade, por isso não foram co
 
 3. Saídas
 
-Os códigos geram saídas para as previsões em arquivo excel (.xlsx) para diversos parametrizações dos modelos, sendo eles:
+Os códigos geram saídas para as previsões em arquivo excel (.xlsx) para diversas parametrizações dos modelos, sendo elas:
 
 SES: alfa de 0.1 a 1.0
 
